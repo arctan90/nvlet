@@ -17,7 +17,7 @@ class GpuScaner:
 
 
 # key-gpuId value-busy:True
-gpu_busy_map = []
+gpu_busy_map = {}
 
 
 def _job():
